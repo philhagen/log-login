@@ -5,7 +5,7 @@ Plugin URI: https://github.com/PhilHagen/log-login
 Description: Plugin to log logon attempts to YOURLS. Refer to <a href="https://github.com/PhilHagen/log-login">my page</a> for more details.  Modified from <a href="https://github.com/SweBarre/log-login">Jonas Forsberg's plugin</a> to use syslog rather than pear-Log and a more detailed log format.
 Version: 0.3ltc
 Author: Jonas Forsberg, Phil Hagen
-Author URI: http://gargamel.nu/, http://lewestech.com/
+Author URI: http://lewestech.com/
 */
 
 // No direct call
